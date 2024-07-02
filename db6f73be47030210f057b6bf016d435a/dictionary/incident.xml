@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" db_object_id="9fe7f788e492021008dda4ccc40080ce" extends="task" label="Incident" max_length="40" name="incident" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" label="test" max_length="40" name="u_test" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="df" max_length="40" name="u_df" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="testq9898" max_length="40" name="u_testq9898" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="test caller 1221" max_length="40" name="u_test_caller_1221" type="string"/>
     </element>
 </database>
